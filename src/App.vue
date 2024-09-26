@@ -86,7 +86,7 @@ body {
 .sidebar {
   width: 300px;
   height: 100vh;
-  background-color: white;
+  background-color: 2e2e2e;
   color: white;
   display: flex;
   flex-direction: column;
