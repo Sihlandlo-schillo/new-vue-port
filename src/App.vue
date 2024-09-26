@@ -64,7 +64,7 @@ html, body {
   overflow: hidden; /* Disable scrolling */
 }
 body {
-  background-color: lightgrey;
+  background-color: E1E1E1;
 }
 
 .footer{
